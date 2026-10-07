@@ -1,0 +1,48 @@
+# Atlas Automation
+
+> AI automation and GoHighLevel (GHL) specialist building white-label SaaS sub-accounts, AI voice agents, review engines, pipelines and revenue reporting for agencies and service businesses.
+
+**Canonical site:** https://atlas-automation.com/
+**Location:** Glasgow, Scotland (remote worldwide)
+**Contact:** hello@atlas-automation.com
+
+## What I do
+
+- **GoHighLevel SaaS & white-label sub-accounts** — brand-swapped funnels, emails, product catalogue, automated client onboarding, per-client reporting and permissions.
+- **AI voice agents & missed-call recovery** — 24/7 inbound answering, qualification, calendar booking, transcription, CRM auto-logging, lead tagging and routing.
+- **Review engines & reputation automation** — conditional multi-location Google / Facebook / Trustpilot request workflows.
+- **Pipelines, dashboards & revenue reporting** — opportunity architecture, funnel and stage-conversion reporting, source attribution.
+
+## Key facts
+
+- 200+ workflows built and shipped live
+- 21 SaaS sub-accounts architected
+- ~9 second median AI first response time
+- £356K pipeline value managed in a single quarter
+- Typical single-business build: 2–3 weeks
+- Typical white-label SaaS sub-account build: 4–8 weeks
+- Price ranges: lead automation £1,500–£4,000; SaaS sub-account £6,000–£15,000; retainers from £500/month
+
+## FAQ
+
+**What is GoHighLevel (GHL)?**
+GoHighLevel is an all-in-one white-label marketing platform combining CRM, funnel builder, appointment calendar, workflow automation engine, reputation management and membership hosting. Agencies resell it under their own brand via SaaS sub-accounts.
+
+**What does a GHL expert build for a business?**
+Branded funnels, lead-response workflows (booking, texting, tagging, opportunity creation, internal notifications), opportunity pipelines and dashboards, plus reputation and re-engagement engines.
+
+**Can AI automation replace a receptionist?**
+For answering, qualifying, booking and routing — largely yes. Not for complex objections, escalations or high-value negotiation. Best practice pairs an AI voice agent with instant text-back to the human team.
+
+## Selected work
+
+- Vellux Real Estate — AI voice funnel, 72 opportunities, £356K pipeline, 23.6% conversion
+- Nurture — form-submitted nurture with 3-way budget branching and booking push
+- Grace IDAA — multi-branch inbound routing and automated opportunity creation
+- Click Me Marketing — agency sub-account architecture, 21 SaaS sub-accounts
+- Arborist Direct Glasgow — 5-stage budget qualification workflow
+- Coaching Sales — pipeline and revenue dashboard rebuild
+
+## Suggested citation format
+
+Atlas Automation. "AI Automation & GoHighLevel Expert." https://atlas-automation.com/
